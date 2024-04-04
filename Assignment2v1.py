@@ -1,13 +1,3 @@
-############
-# Project : Karatsuba Algorithm for Polynomial Multiplication
-# Course: CS7200
-# Team:
-# CHITROJU KODANDA SAIAYYAPPA RAGHAVENDRA SESHA NARAYANACHARYULU
-# VARUN GRANDHI
-# SUDHEER DANIEL MEGHAVARAM
-############
-
-
 n = 0
 count = 0
 with open('input1.txt', 'r') as file:
